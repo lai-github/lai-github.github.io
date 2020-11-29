@@ -1,15 +1,15 @@
 // 用一個物件陣列來放照片的名字跟來源，不僅好管理，還可以搭配 for 迴圈使用
 var images = [
     {
-        name: "001青蘋果",
+
         photoURL: "images/fruit-1.jpg"
     },
     {
-        name: "草莓",
+        name: "002草莓",
         photoURL: "images/fruit-2.jpg"
     },
     {
-        name: "橘子",
+        name: "003橘子",
         photoURL: "images/fruit-3.jpg"
     },
     {
