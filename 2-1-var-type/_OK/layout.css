@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, "微軟正黑體", sans-serif;
+}
+
+.box {
+    width: 760px;
+    background-color: #FFF;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    border: 20px solid #9CC;
+    color: black;
+}
+
+.box h1 {
+    letter-spacing: 2px;
+}
+
+.box p {
+    font-size: 16px;
+    line-height: 1.8;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+
+#price, #newStudentPrice, #oldStudentPrice, #phone, #address {
+    color: #2aa;
+}
+
+#gift {
+    color: red;
+}
+
+.hide {
+    display: none;
+}
